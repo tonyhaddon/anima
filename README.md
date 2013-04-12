@@ -1,4 +1,4 @@
 anima
 =====
 
-Just a simple animation engine in html, CSS and javascript
+Just a simple animate-based-on-scroll-position engine in html, CSS and jQuery.
